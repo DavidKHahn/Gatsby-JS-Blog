@@ -159,7 +159,7 @@ module.exports = {
         background_color: '#FFF',
         theme_color: '#F7A046',
         display: 'standalone',
-        icon: '/static/media/surgtime-logo.png'
+        icon: 'static/media/surgtime-logo.png'
       },
     },
     'gatsby-plugin-offline',
