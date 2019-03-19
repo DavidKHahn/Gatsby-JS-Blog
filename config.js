@@ -24,7 +24,7 @@ module.exports = {
   ],
   author: {
     name: 'SurgTime Inc',
-    photo: 'static/media/surgtime-logo.png',
+    photo: 'static/media/raw-food.jpg',
     bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {
       email: '#',
