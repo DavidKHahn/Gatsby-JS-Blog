@@ -10,7 +10,7 @@ describe('Sidebar', () => {
           siteMetadata: {
             author: {
               name: 'name',
-              photo: '/photo.jpg',
+              photo: '/surgtime-logo.svg',
               bio: 'bio',
               contacts: {
                 email: '#',
